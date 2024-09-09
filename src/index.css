@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.reverseIcon , .removeIcon{
+    cursor: pointer;
+    width: 30px;
+    /* height: 30px; */
+}
+.text-area{
+  position: relative;
+}
+.removeIcon{
+  position: absolute;
+  top: 7%;
+  right: 7%;
+
+}
+
+@media screen and (max-width: 700px) {
+  .container{
+    width: 100% !important;
+  }
+
+}
+
+
