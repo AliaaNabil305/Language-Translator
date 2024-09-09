@@ -10,11 +10,11 @@ This web-based Translator Application is a simple, intuitive tool built using Re
 - **Clear Input Text:** Remove the entered text and reset the translation field with ease.
 - **Dynamic Output:** Display translated text dynamically in the output area, updating in real time.
 
-## 🌐 Live Demo
+## 🌐 Project Link
 
-You can check out the live version of the Translator Web Application deployed on Vercel by clicking the link below:
+You can check out the live version of the Translator Web Application by clicking the link below:
 
-[Live Demo on Vercel](https://language-translator-tan.vercel.app/)
+[Project link](https://language-translator-tan.vercel.app/)
 
 ## 🛠️ Technologies Used
 
